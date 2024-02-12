@@ -88,5 +88,5 @@
                 new-team-with-highest-score
                 (add1 line-count))))))
 
-;Main execution, calls 
+;Main execution, calls the process-file function to read lines and process data
 (process-file input-file)
